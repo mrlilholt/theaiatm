@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "title": "AI \u2192 YouTube Clip Machine (how it really works)",
+      "category": "YouTube Systems",
+      "readTime": "~6 min",
+      "slug": "ai-to-youtube-clip-machine.html",
+      "tags": [
+        "clips",
+        "workflow"
+      ],
+      "lede": "Short-form clipping is one of the most repeatable AI workflows right now \u2014 but only if you pick a format you can produce forever.",
+      "whatsHappening": "People take long videos (podcasts, lectures, streams), identify the best moments, add captions, and publish consistently. AI handles the boring parts; the human handles taste and selection.",
+      "tools": [
+        "Descript",
+        "CapCut",
+        "Opus Clip",
+        "YouTube Studio"
+      ],
+      "steps": [
+        "Choose a single source format (podcast, lecture, streams) and one niche.",
+        "Batch process: pull 30\u201360 minutes of footage per session.",
+        "Use AI to find highlights, then manually pick the top 5 moments.",
+        "Caption + add a consistent visual style so it feels like a series.",
+        "Post on a schedule and link to one offer (affiliate/tool/newsletter)."
+      ],
+      "time": "2\u20134 hours to set up, then ~60 minutes per batch day.",
+      "skill": "Beginner to intermediate (editing helps, but templates carry you).",
+      "truth": "The money comes from consistency + distribution, not the clip tool."
+    },
+    {
+      "title": "Vibe-coded Micro\u2011SaaS: tiny app, tiny price, real money",
+      "category": "Vibe Coding",
+      "readTime": "~8 min",
+      "slug": "vibe-coded-micro-saas.html",
+      "tags": [
+        "micro-apps",
+        "stripe"
+      ],
+      "lede": "Micro\u2011SaaS works when you solve a single annoying problem for a single type of person \u2014 then charge a price that feels like nothing.",
+      "whatsHappening": "People are shipping small web apps in days, not months. AI accelerates the coding, but the winning move is picking a clear niche and keeping the feature list tiny.",
+      "tools": [
+        "Lovable",
+        "Cursor",
+        "Next.js",
+        "Netlify"
+      ],
+      "steps": [
+        "Write the problem in one sentence (no commas).",
+        "Build the smallest version that works end-to-end.",
+        "Add payment after it works (Stripe or LemonSqueezy).",
+        "Launch somewhere specific (Reddit niche, community, YouTube demo).",
+        "Improve based on real user pain \u2014 not your imagination."
+      ],
+      "time": "A weekend for v1 if scope stays tiny.",
+      "skill": "Beginner-friendly if you follow patterns; stronger if you can debug.",
+      "truth": "The hard part is restraint: don\u2019t build a platform, build a tool."
+    },
+    {
+      "title": "Prompt Product: sell a template people actually use",
+      "category": "PromptATM",
+      "readTime": "~7 min",
+      "slug": "prompt-product-template.html",
+      "tags": [
+        "gumroad",
+        "templates"
+      ],
+      "lede": "Prompt products sell when they reduce anxiety and save time \u2014 not because the prompt is \u201cclever.\u201d",
+      "whatsHappening": "Instead of selling prompts as magic spells, people bundle a prompt + example outputs + a simple workflow. Buyers pay for clarity and speed.",
+      "tools": [
+        "Gumroad",
+        "Notion",
+        "Google Docs",
+        "Canva"
+      ],
+      "steps": [
+        "Pick one audience with one recurring pain (teachers, job seekers, creators).",
+        "Create a one-page workflow and 3 example outputs.",
+        "Package it as a template (Notion/Doc/Canva) plus a short guide.",
+        "Sell it with a simple demo page and a couple of screenshots.",
+        "Iterate based on questions buyers ask \u2014 those become v2 features."
+      ],
+      "time": "2\u20133 hours to build a solid first version.",
+      "skill": "Beginner (writing + packaging matters more than tech).",
+      "truth": "People pay for a system they can reuse, not a single prompt."
+    }
+  ]
+}
