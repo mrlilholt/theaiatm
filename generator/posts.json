@@ -1,139 +1,440 @@
 {
   "posts": [
     {
-      "title": "AI \u2192 YouTube Clip Machine (how it really works)",
-      "category": "YouTube Systems",
-      "readTime": "~6 min",
-      "slug": "ai-to-youtube-clip-machine.html",
+      "title": "AI Side Hustles for Absolute Beginners (No Coding, No Experience)",
+      "category": "Beginners",
+      "readTime": "~7 min",
       "tags": [
-        "clips",
+        "beginners",
+        "side hustle",
+        "no coding"
+      ],
+      "lede": "These are the best AI side hustles for total beginners — no coding or experience required. Start earning using simple tools you already know.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        }
+      ],
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "CapCut",
+        "Notion"
+      ],
+      "steps": [
+        "Pick one simple idea that solves a problem.",
+        "Use AI to draft your first output (video script, social clip, template).",
+        "Polish the output with a style template.",
+        "Publish it to a platform where users are already looking.",
+        "Add one simple way to get paid (affiliate link, template sale)."
+      ],
+      "time": "2–4 hours",
+      "skill": "Beginner (no coding)",
+      "truth": "Beginners win by picking *one focus* and shipping fast."
+    },
+    {
+      "title": "How People Are Earning $500+/Day With AI (Real Examples)",
+      "category": "Income Examples",
+      "readTime": "~8 min",
+      "tags": [
+        "income",
+        "proof",
+        "side hustle"
+      ],
+      "lede": "Here’s how real creators are generating $500 or more per day using AI systems that automate routine tasks and amplify distribution.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
+        }
+      ],
+      "tools": [
+        "Zapier/Make",
+        "Beehiiv",
+        "YouTube Studio",
+        "Stripe"
+      ],
+      "steps": [
+        "Select a repeatable AI workflow (e.g., clipping, summarization).",
+        "Build a simple automation to produce output daily.",
+        "Connect an audience channel (YouTube, newsletter).",
+        "Monetize through ads, sponsors, or paid upgrades.",
+        "Refine based on what actually engages users."
+      ],
+      "time": "4–8 hours to set up",
+      "skill": "Beginner to intermediate",
+      "truth": "Consistency and distribution matter more than fancy tools."
+    },
+    {
+      "title": "The Best AI Tools That Help You Get Paid in 2026",
+      "category": "Tools & Workflows",
+      "readTime": "~7 min",
+      "tags": [
+        "tools",
+        "2026",
         "workflow"
       ],
-      "lede": "Short-form clipping is one of the most repeatable AI workflows right now \u2014 but only if you pick a format you can produce forever.",
-      "whatsHappening": "People take long videos (podcasts, lectures, streams), identify the best moments, add captions, and publish consistently. AI handles the boring parts; the human handles taste and selection.",
+      "lede": "These are the AI tools real creators use to drive real revenue — from quick social outputs to automation workflows that scale.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        }
+      ],
       "tools": [
         "Descript",
         "CapCut",
-        "Opus Clip",
-        "YouTube Studio"
-      ],
-      "steps": [
-        "Choose a single source format (podcast, lecture, streams) and one niche.",
-        "Batch process: pull 30\u201360 minutes of footage per session.",
-        "Use AI to find highlights, then manually pick the top 5 moments.",
-        "Caption + add a consistent visual style so it feels like a series.",
-        "Post on a schedule and link to one offer (affiliate/tool/newsletter)."
-      ],
-      "time": "2\u20134 hours to set up, then ~60 minutes per batch day.",
-      "skill": "Beginner to intermediate (editing helps, but templates carry you).",
-      "truth": "The money comes from consistency + distribution, not the clip tool.",
-      "embeds": [
-        {
-          "type": "links",
-          "items": [
-            {
-              "label": "YouTube Shorts",
-              "url": "https://www.youtube.com/shorts",
-              "note": "Where clips live"
-            },
-            {
-              "label": "CapCut",
-              "url": "https://www.capcut.com/",
-              "note": "Fast captions + templates"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Vibe-coded Micro\u2011SaaS: tiny app, tiny price, real money",
-      "category": "Vibe Coding",
-      "readTime": "~8 min",
-      "slug": "vibe-coded-micro-saas.html",
-      "tags": [
-        "micro-apps",
-        "stripe"
-      ],
-      "lede": "Micro\u2011SaaS works when you solve a single annoying problem for a single type of person \u2014 then charge a price that feels like nothing.",
-      "whatsHappening": "People are shipping small web apps in days, not months. AI accelerates the coding, but the winning move is picking a clear niche and keeping the feature list tiny.",
-      "tools": [
-        "Lovable",
-        "Cursor",
-        "Next.js",
+        "Notion",
         "Netlify"
       ],
       "steps": [
-        "Write the problem in one sentence (no commas).",
-        "Build the smallest version that works end-to-end.",
-        "Add payment after it works (Stripe or LemonSqueezy).",
-        "Launch somewhere specific (Reddit niche, community, YouTube demo).",
-        "Improve based on real user pain \u2014 not your imagination."
+        "Identify the bottleneck (writing, editing, design).",
+        "Pick an AI tool that accelerates that step.",
+        "Integrate with a quick publishing platform.",
+        "Measure output quality and iterate.",
+        "Attach a monetization path early."
       ],
-      "time": "A weekend for v1 if scope stays tiny.",
-      "skill": "Beginner-friendly if you follow patterns; stronger if you can debug.",
-      "truth": "The hard part is restraint: don\u2019t build a platform, build a tool.",
-      "embeds": [
-        {
-          "type": "links",
-          "items": [
-            {
-              "label": "Stripe",
-              "url": "https://stripe.com/",
-              "note": "Payments"
-            },
-            {
-              "label": "Netlify",
-              "url": "https://www.netlify.com/",
-              "note": "Deploy fast"
-            }
-          ]
-        }
-      ]
+      "time": "1–2 hours to test",
+      "skill": "Beginner to intermediate",
+      "truth": "Tools are helpers — output and distribution earn money."
     },
     {
-      "title": "Prompt Product: sell a template people actually use",
-      "category": "PromptATM",
-      "readTime": "~7 min",
-      "slug": "prompt-product-template.html",
+      "title": "Make Money With AI Content: Systems That Scale",
+      "category": "Creators",
+      "readTime": "~8 min",
       "tags": [
-        "gumroad",
-        "templates"
+        "content",
+        "systems",
+        "scaling"
       ],
-      "lede": "Prompt products sell when they reduce anxiety and save time \u2014 not because the prompt is \u201cclever.\u201d",
-      "whatsHappening": "Instead of selling prompts as magic spells, people bundle a prompt + example outputs + a simple workflow. Buyers pay for clarity and speed.",
+      "lede": "Find out how AI content systems — like automated video clipping and templated writing — generate income when they scale.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        }
+      ],
       "tools": [
-        "Gumroad",
-        "Notion",
-        "Google Docs",
+        "YouTube Studio",
+        "CapCut",
+        "Descript",
         "Canva"
       ],
       "steps": [
-        "Pick one audience with one recurring pain (teachers, job seekers, creators).",
-        "Create a one-page workflow and 3 example outputs.",
-        "Package it as a template (Notion/Doc/Canva) plus a short guide.",
-        "Sell it with a simple demo page and a couple of screenshots.",
-        "Iterate based on questions buyers ask \u2014 those become v2 features."
+        "Define your content system (e.g., weekly clips + shorts).",
+        "Automate what you can (captions, editing).",
+        "Establish a consistent publishing schedule.",
+        "Use AI to produce variations at scale.",
+        "Track engagement and refine based on data."
       ],
-      "time": "2\u20133 hours to build a solid first version.",
-      "skill": "Beginner (writing + packaging matters more than tech).",
-      "truth": "People pay for a system they can reuse, not a single prompt.",
+      "time": "Several hours to set up",
+      "skill": "Intermediate",
+      "truth": "Systems beat random effort; consistency compounds."
+    },
+    {
+      "title": "Passive AI Income Streams That Actually Work",
+      "category": "Passive Income",
+      "readTime": "~8 min",
+      "tags": [
+        "passive",
+        "income",
+        "long term"
+      ],
+      "lede": "This post explores AI income streams that earn with minimal ongoing effort once they’re established.",
       "embeds": [
         {
-          "type": "links",
-          "items": [
-            {
-              "label": "Gumroad",
-              "url": "https://gumroad.com/",
-              "note": "Sell digital products"
-            },
-            {
-              "label": "Notion",
-              "url": "https://www.notion.so/",
-              "note": "Template delivery"
-            }
-          ]
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
         }
-      ]
+      ],
+      "tools": [
+        "Automated newsletters",
+        "Static sites",
+        "Affiliate networks"
+      ],
+      "steps": [
+        "Pick a niche that has recurring need.",
+        "Set up an AI workflow that updates content automatically.",
+        "Embed affiliate links or sponsor blocks.",
+        "Drive evergreen traffic (SEO, YouTube).",
+        "Monitor and tweak rarely, but consistently."
+      ],
+      "time": "8+ hours",
+      "skill": "Intermediate",
+      "truth": "True passive income often requires heavy initial setup."
+    },
+    {
+      "title": "AI Side Hustles You Can Start Tonight",
+      "category": "Beginners",
+      "readTime": "~6 min",
+      "tags": [
+        "quick start",
+        "beginner",
+        "tonight"
+      ],
+      "lede": "Here are simple AI ideas you can begin *tonight* — no long tools setup or learning curve needed.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        }
+      ],
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "CapCut"
+      ],
+      "steps": [
+        "Pick one idea you can test immediately.",
+        "Use AI to create your first output.",
+        "Publish on a free platform.",
+        "Add a simple monetization link.",
+        "Iterate quickly based on feedback."
+      ],
+      "time": "1–3 hours",
+      "skill": "Beginner",
+      "truth": "Fast starts don’t guarantee profits — but they build momentum."
+    },
+    {
+      "title": "AI Hustles That Scale Into Full-Time Businesses",
+      "category": "Growth",
+      "readTime": "~8 min",
+      "tags": [
+        "scaling",
+        "business",
+        "growth"
+      ],
+      "lede": "This post covers AI hustles that can grow into scalable businesses rather than one-off gigs.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
+        }
+      ],
+      "tools": [
+        "Workflow automation",
+        "Paid acquisition",
+        "SaaS templates"
+      ],
+      "steps": [
+        "Start with one reliable income stream.",
+        "Standardize and document the workflow.",
+        "Add recurring revenue elements.",
+        "Hire or automate bottlenecks.",
+        "Reinvest for growth."
+      ],
+      "time": "Ongoing",
+      "skill": "Intermediate to advanced",
+      "truth": "Scalability requires discipline and iteration."
+    },
+    {
+      "title": "AI Side Hustle Case Studies: Proof It Works",
+      "category": "Case Studies",
+      "readTime": "~7 min",
+      "tags": [
+        "proof",
+        "case studies",
+        "examples"
+      ],
+      "lede": "People really *are* earning money with AI. These case studies show you how they did it.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        }
+      ],
+      "tools": [
+        "YouTube",
+        "Affiliate marketing",
+        "Newsletter platforms"
+      ],
+      "steps": [
+        "Study real examples of income systems.",
+        "Identify what made them profitable.",
+        "Adapt their workflows to your niche.",
+        "Test and refine.",
+        "Document your own results."
+      ],
+      "time": "Varies",
+      "skill": "All levels",
+      "truth": "Proof builds confidence — but execution builds income."
+    },
+    {
+      "title": "AI Money-Making Tools & Frameworks That Earn",
+      "category": "Frameworks",
+      "readTime": "~8 min",
+      "tags": [
+        "frameworks",
+        "tools",
+        "earn"
+      ],
+      "lede": "If you want to build repeatable money-making workflows with AI, these tools and frameworks are where most creators start.",
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
+        }
+      ],
+      "tools": [
+        "Workflow templates",
+        "Automation scripts",
+        "Content systems"
+      ],
+      "steps": [
+        "Pick a framework that matches your style.",
+        "Source the right tools for that framework.",
+        "Build a minimum working version.",
+        "Test with real users.",
+        "Iterate and polish."
+      ],
+      "time": "Variable",
+      "skill": "All levels",
+      "truth": "Frameworks accelerate learning curves."
     }
   ]
 }

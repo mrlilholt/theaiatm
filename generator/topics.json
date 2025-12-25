@@ -1,41 +1,429 @@
 {
   "topics": [
     {
-      "title": "Daily weird money: AI-powered niche newsletter that actually converts",
-      "category": "Newsletters",
+      "title": "AI Side Hustles for Absolute Beginners (No Coding, No Experience)",
+      "category": "Beginners",
       "tags": [
-        "newsletter",
-        "automation"
+        "beginners",
+        "side hustle",
+        "no coding"
       ],
-      "publishOn": "2025-12-25",
-      "lede": "A newsletter can be an ATM if it\u2019s narrowly scoped, consistently delivered, and tied to one simple offer.",
-      "whatsHappening": "Creators use AI to summarize a niche daily (local sports, classroom resources, industry intel), then monetize with sponsors, affiliate tools, or a paid tier.",
+      "publishOn": "2025-12-24",
+      "lede": "These are the best AI side hustles for total beginners — no coding or experience required.",
+      "whatsHappening": "AI tools now enable people without technical skills to produce and monetize work quickly.",
       "tools": [
-        "Beehiiv",
-        "Substack",
-        "Zapier/Make"
+        "ChatGPT",
+        "Canva",
+        "CapCut",
+        "Notion"
       ],
       "steps": [
-        "Pick a niche with recurring news (daily/weekly).",
-        "Build a repeatable format (3 headlines + 1 take + 1 tool).",
-        "Use AI to draft summaries; you add the point of view.",
-        "Monetize with one offer (sponsor slot or affiliate)."
+        "Pick one idea",
+        "Generate output with AI",
+        "Publish",
+        "Monetize",
+        "Iterate"
       ],
       "embeds": [
         {
-          "type": "links",
-          "items": [
-            {
-              "label": "Beehiiv",
-              "url": "https://www.beehiiv.com/",
-              "note": "Newsletter platform"
-            },
-            {
-              "label": "Substack",
-              "url": "https://substack.com/",
-              "note": "Newsletter + paid subscriptions"
-            }
-          ]
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        }
+      ],
+      "status": "published",
+      "note": "Skipped (title already exists in posts.json)"
+    },
+    {
+      "title": "How People Are Earning $500+/Day With AI (Real Examples)",
+      "category": "Income Examples",
+      "tags": [
+        "income",
+        "proof",
+        "side hustle"
+      ],
+      "publishOn": "2025-12-27",
+      "lede": "Here’s how creators make real money with AI systems that automate routine tasks and amplify reach.",
+      "whatsHappening": "AI can handle repetitive tasks, leaving humans to focus on curation and monetization.",
+      "tools": [
+        "Zapier",
+        "Beehiiv",
+        "YouTube Studio",
+        "Stripe"
+      ],
+      "steps": [
+        "Pick a repeatable workflow",
+        "Automate key steps",
+        "Monetize",
+        "Track performance",
+        "Refine"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "The Best AI Tools That Help You Get Paid in 2026",
+      "category": "Tools & Workflows",
+      "tags": [
+        "tools",
+        "2026",
+        "workflow"
+      ],
+      "publishOn": "2025-12-30",
+      "lede": "These are the AI tools real creators use to drive revenue — from video to automation workflows.",
+      "whatsHappening": "New AI tools make content creation, distribution, and monetization faster than ever.",
+      "tools": [
+        "Descript",
+        "CapCut",
+        "Notion",
+        "Netlify"
+      ],
+      "steps": [
+        "Identify bottleneck",
+        "Test tool",
+        "Automate",
+        "Publish",
+        "Monetize"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "Make Money With AI Content: Systems That Scale",
+      "category": "Creators",
+      "tags": [
+        "content",
+        "systems",
+        "scaling"
+      ],
+      "publishOn": "2026-01-02",
+      "lede": "See how content systems — like automated clips and templates — generate income when they scale.",
+      "whatsHappening": "AI helps generate consistent, engaging content while you focus on strategy and offers.",
+      "tools": [
+        "YouTube Studio",
+        "CapCut",
+        "Descript",
+        "Canva"
+      ],
+      "steps": [
+        "Define system",
+        "Automate",
+        "Schedule",
+        "Track",
+        "Refine"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "Passive AI Income Streams That Actually Work",
+      "category": "Passive Income",
+      "tags": [
+        "passive",
+        "income",
+        "long term"
+      ],
+      "publishOn": "2026-01-05",
+      "lede": "Explore AI income streams that keep earning with minimal ongoing effort.",
+      "whatsHappening": "Once established, these systems bring steady revenue with less day-to-day work.",
+      "tools": [
+        "Automated newsletters",
+        "Static sites",
+        "Affiliate networks"
+      ],
+      "steps": [
+        "Pick niche",
+        "Automate content",
+        "Embed monetization",
+        "Drive traffic",
+        "Monitor"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "AI Side Hustles You Can Start Tonight",
+      "category": "Beginners",
+      "tags": [
+        "quick start",
+        "beginner",
+        "tonight"
+      ],
+      "publishOn": "2026-01-08",
+      "lede": "Simple AI hustle ideas you can launch *tonight* — no long setup or learning curve.",
+      "whatsHappening": "With AI tools ready to go, you can start earning with minimal barriers.",
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "CapCut"
+      ],
+      "steps": [
+        "Pick idea",
+        "Generate output",
+        "Publish",
+        "Add monetization link",
+        "Iterate"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "mOoIrwKblnY"
+        },
+        {
+          "type": "youtube",
+          "id": "xl0uNpdIgME"
+        },
+        {
+          "type": "youtube",
+          "id": "6HDY1VH0ICY"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "sEfuolqQstA"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "AI Hustles That Scale Into Full-Time Businesses",
+      "category": "Growth",
+      "tags": [
+        "scaling",
+        "business",
+        "growth"
+      ],
+      "publishOn": "2026-01-11",
+      "lede": "AI hustles that can transition from side gig to scalable business models.",
+      "whatsHappening": "Real case studies show how scaling workflows and recurring revenue change the game.",
+      "tools": [
+        "Automation",
+        "Paid acquisition",
+        "SaaS templates"
+      ],
+      "steps": [
+        "Start reliable stream",
+        "Standardize",
+        "Add recurring revenue",
+        "Automate bottlenecks",
+        "Reinvest"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "AI Side Hustle Case Studies: Proof It Works",
+      "category": "Case Studies",
+      "tags": [
+        "proof",
+        "case studies",
+        "examples"
+      ],
+      "publishOn": "2026-01-14",
+      "lede": "These case studies prove people are earning money with AI — and how you can too.",
+      "whatsHappening": "We look at systems, income approaches, and what made them successful.",
+      "tools": [
+        "YouTube",
+        "Affiliate marketing",
+        "Newsletter platforms"
+      ],
+      "steps": [
+        "Study examples",
+        "Identify profit points",
+        "Adapt frameworks",
+        "Test",
+        "Document results"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "5_XInTKpIhw"
+        }
+      ],
+      "status": "queued"
+    },
+    {
+      "title": "AI Money-Making Tools & Frameworks That Earn",
+      "category": "Frameworks",
+      "tags": [
+        "frameworks",
+        "tools",
+        "earn"
+      ],
+      "publishOn": "2026-01-17",
+      "lede": "Build repeatable money-making workflows with the right tools and frameworks.",
+      "whatsHappening": "Frameworks help you move faster from idea to income by standardizing the steps.",
+      "tools": [
+        "Workflow templates",
+        "Automation",
+        "Content systems"
+      ],
+      "steps": [
+        "Pick framework",
+        "Source tools",
+        "Build MVP",
+        "Test",
+        "Iterate"
+      ],
+      "embeds": [
+        {
+          "type": "youtube",
+          "id": "r5RHkXJatz8"
+        },
+        {
+          "type": "youtube",
+          "id": "PU_G6KtntY4"
+        },
+        {
+          "type": "youtube",
+          "id": "F7Y1XO2lLcI"
+        },
+        {
+          "type": "youtube",
+          "id": "z1oUk6KjUu0"
+        },
+        {
+          "type": "youtube",
+          "id": "iIIyo5Ivsfo"
         }
       ],
       "status": "queued"
