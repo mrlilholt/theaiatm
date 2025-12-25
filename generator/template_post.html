@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{TITLE}} — TheAIATM</title>
+  <meta name="description" content="{{TITLE}} — receipts-first notes on how people turn AI into real money.">
+  <link rel="icon" type="image/png" href="../assets/TheAIATM.png">
+  <link rel="stylesheet" href="../css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../index.html" aria-label="TheAIATM Home">
+        <img src="../assets/TheAIATM.png" alt="TheAIATM logo">
+        <div class="title">
+          <strong>TheAIATM</strong>
+          <span>withdraw ideas • deposit experiments</span>
+        </div>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a data-nav href="../index.html">Home</a>
+        <a data-nav href="./index.html">Blog</a>
+        <a data-nav href="../index.html#start">Start Here</a>
+        <span class="pill">🧾 receipts only</span>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="min-height:220px">
+    <div class="hero-bg" style="background-image:url('../assets/TheAIATMhero.png')"></div>
+    <div class="hero-overlay"></div>
+    <div class="container hero-inner">
+      <div class="card card-pad" style="max-width:880px">
+        <div class="tag">{{CATEGORY}}</div>
+        <h1 class="h1" style="font-size:34px">{{TITLE}}</h1>
+        <div class="meta">Read: {{READ_TIME}} • TheAIATM</div>
+      </div>
+    </div>
+  </section>
+
+  <main class="article">
+    <div class="container">
+      {{CONTENT}}
+
+      {{RELATED}}
+
+      <div style="margin-top:18px">
+        <a class="btn" href="./index.html">← Back to blog</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between">
+        <div>© <span id="y"></span> <strong>TheAIATM</strong></div>
+        <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+          <a href="./index.html">Blog</a>
+          <span class="kbd">{{SLUG}}</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>

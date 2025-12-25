@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TheAIATM Blog</title>
+  <meta name="description" content="TheAIATM blog — receipts-first ways people turn AI into real money.">
+  <link rel="icon" type="image/png" href="../assets/TheAIATM.png">
+  <link rel="stylesheet" href="../css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../index.html" aria-label="TheAIATM Home">
+        <img src="../assets/TheAIATM.png" alt="TheAIATM logo">
+        <div class="title">
+          <strong>TheAIATM</strong>
+          <span>withdraw ideas • deposit experiments</span>
+        </div>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a data-nav href="../index.html">Home</a>
+        <a data-nav href="./index.html">Blog</a>
+        <a data-nav href="../index.html#start">Start Here</a>
+        <span class="pill">🧾 receipts only</span>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="min-height:260px">
+    <div class="hero-bg" style="background-image:url('../assets/TheAIATMhero.png')"></div>
+    <div class="hero-overlay"></div>
+    <div class="container hero-inner">
+      <div class="card card-pad" style="max-width:780px">
+        <div class="tag">TheAIATM Blog</div>
+        <h1 class="h1" style="font-size:36px">A feed of profitable weirdness.</h1>
+        <p class="lede">Posts about YouTube systems, vibe-coded apps, prompt products, and other modern internet money mechanics — explained like a human.</p>
+      </div>
+    </div>
+  </section>
+
+  <main class="section">
+    <div class="container">
+      <div class="post-list">
+        <a class="card post-card" href="./ai-to-youtube-clip-machine.html">
+          <h3>AI → YouTube Clip Machine (how it really works)</h3>
+          <div class="meta">YouTube Systems • ~6 min</div>
+          <span class="tag">clips</span> <span class="tag">workflow</span>
+        </a>
+
+
+        <a class="card post-card" href="./vibe-coded-micro-saas.html">
+          <h3>Vibe-coded Micro‑SaaS: tiny app, tiny price, real money</h3>
+          <div class="meta">Vibe Coding • ~8 min</div>
+          <span class="tag">micro-apps</span> <span class="tag">stripe</span>
+        </a>
+
+
+        <a class="card post-card" href="./prompt-product-template.html">
+          <h3>Prompt Product: sell a template people actually use</h3>
+          <div class="meta">PromptATM • ~7 min</div>
+          <span class="tag">gumroad</span> <span class="tag">templates</span>
+        </a>
+
+      </div>
+          <span class="tag">clips</span> <span class="tag">workflow</span>
+        </a>
+
+        <a class="card post-card" href="./vibe-coded-micro-saas.html">
+          <h3>Vibe-coded Micro‑SaaS: tiny app, tiny price, real money</h3>
+          <div class="meta">Vibe Coding • ~8 min</div>
+          <span class="tag">micro‑apps</span> <span class="tag">stripe</span>
+        </a>
+
+        <a class="card post-card" href="./prompt-product-template.html">
+          <h3>Prompt Product: sell a template people actually use</h3>
+          <div class="meta">PromptATM • ~7 min</div>
+          <span class="tag">gumroad</span> <span class="tag">templates</span>
+        </a>
+      </div>
+
+      <div class="card card-pad" style="margin-top:16px">
+        <h2 style="margin:0 0 10px;font-size:16px">Autoposting (next)</h2>
+        <p class="lede" style="margin:0">
+          Next step: add a simple <span class="kbd">/generator</span> script that takes a JSON topic file and outputs new blog HTML pages.
+          (We’ll keep it editable in VS Code.)
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between">
+        <div>© <span id="y"></span> <strong>TheAIATM</strong> — a log of profitable weirdness.</div>
+        <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+          <a href="../index.html">Home</a>
+          <span class="kbd">/</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>

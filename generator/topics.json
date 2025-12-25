@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "title": "Daily weird money: AI-powered niche newsletter that actually converts",
+      "category": "Newsletters",
+      "tags": [
+        "newsletter",
+        "automation"
+      ],
+      "publishOn": "2025-12-25",
+      "lede": "A newsletter can be an ATM if it\u2019s narrowly scoped, consistently delivered, and tied to one simple offer.",
+      "whatsHappening": "Creators use AI to summarize a niche daily (local sports, classroom resources, industry intel), then monetize with sponsors, affiliate tools, or a paid tier.",
+      "tools": [
+        "Beehiiv",
+        "Substack",
+        "Zapier/Make"
+      ],
+      "steps": [
+        "Pick a niche with recurring news (daily/weekly).",
+        "Build a repeatable format (3 headlines + 1 take + 1 tool).",
+        "Use AI to draft summaries; you add the point of view.",
+        "Monetize with one offer (sponsor slot or affiliate)."
+      ],
+      "embeds": [
+        {
+          "type": "links",
+          "items": [
+            {
+              "label": "Beehiiv",
+              "url": "https://www.beehiiv.com/",
+              "note": "Newsletter platform"
+            },
+            {
+              "label": "Substack",
+              "url": "https://substack.com/",
+              "note": "Newsletter + paid subscriptions"
+            }
+          ]
+        }
+      ],
+      "status": "queued"
+    }
+  ]
+}
